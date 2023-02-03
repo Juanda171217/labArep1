@@ -16,11 +16,10 @@ public class HttpClient {
      * 
      * @param title
      * @return titulo de la pelicula
-     * @throws IOException class exception
      */
     public static String filmTitle(String title) throws IOException {
 
-        // Connection Api Cinema
+        // Connection Api
         String urlComplete = urlApi + title + urlApiKey;
         URL obj = new URL(urlComplete);
         HttpURLConnection con = (HttpURLConnection) obj.openConnection();

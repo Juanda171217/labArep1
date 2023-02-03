@@ -31,10 +31,12 @@ Luego para ejecutarlo, debe utilizar el comando
 mvn clean package exec:java -D "exec.mainClass"="edu.escuelaing.arem.HttpServer"
 ```
 
-Al terminar esta intruccion podra ir a cualquier navegador y acceder con la ruta http://localhost:36000
+Al terminar esta intruccion podra ir a cualquier navegador y acceder con la ruta http://localhost:38000
 
 
 ## Estructura de Archivos
 
 [![po.png](https://i.postimg.cc/Mp1sQShq/po.png)](https://postimg.cc/w1T5CSqG)
+
+
 [![ima1.png](https://i.postimg.cc/HsqZnxv6/ima1.png)](https://postimg.cc/9rBtNWh9)

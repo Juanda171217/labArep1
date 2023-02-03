@@ -13,9 +13,9 @@ public class HttpServer {
         ServerSocket serverSocket = null;
 
         try {
-            serverSocket = new ServerSocket(36000);
+            serverSocket = new ServerSocket(38000);
         } catch (IOException e) {
-            System.err.println("Could not listen on port: 36000.");
+            System.err.println("Could not listen on port: 38000.");
             System.exit(1);
         }
 
@@ -51,7 +51,7 @@ public class HttpServer {
                         + "Content-Type: text/html\r\n"
                         + "\r\n"
                         + "<br>"
-                        + "<table border=\" 1 \"> \n "
+                        + "<table border=\" 0.5 \"> \n "
                         + createTable(answer)
                         + "</table>";
             } else {
