@@ -72,7 +72,7 @@ public class HttpServer {
     /**
      * Metodo que crea tabla en formato Html
      * 
-     * @param document Archivo para crear tabla
+     * @param document Archivo para crea tabla
      * @return String tabla
      */
     private static String createTable(String document) {
