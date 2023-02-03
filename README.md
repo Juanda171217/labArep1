@@ -1,6 +1,6 @@
 # Titulo
 
-TALLER 1: APLICACIONES DISTRIBUIDAS (HTTP, SOCKETS, HTML, JS,MAVEN, GIT)
+## TALLER 1: APLICACIONES DISTRIBUIDAS (HTTP, SOCKETS, HTML, JS,MAVEN, GIT)
 
 ### Juan David Martinez
 
@@ -36,47 +36,5 @@ Al terminar esta intruccion podra ir a cualquier navegador y acceder con la ruta
 
 ## Estructura de Archivos
 
-  pom.xml
-│   README.md
-│   
-├───.vscode
-│       settings.json 
-├───src
-│   ├───main
-│   │   └───java
-│   │       └───edu
-│   │           └───escuelaing
-│   │               └───arem
-│   │                       HttpClient.java
-│   │                       HttpServer.java
-│   └───test
-│       └───java
-│           └───edu
-│               └───escuelaing
-│                   └───arem
-│                       └───ASE
-│                           └───app
-│                                   AppTest.java
-└───target
-    │   mi-primera-app-1.0-SNAPSHOT.jar
-    ├───classes
-    │   └───edu
-    │       └───escuelaing
-    │           └───arem
-    │                   HttpClient.class
-    │                   HttpServer.class
-    ├───generated-sources
-    │           └───default-testCompile
-    │                   createdFiles.lst
-    │                   inputFiles.lst
-    ├───surefire-reports
-    │       edu.escuelaing.arem.ASE.app.AppTest.txt
-    │       TEST-edu.escuelaing.arem.ASE.app.AppTest.xml
-    └───test-classes
-        └───edu
-            └───escuelaing
-                └───arem
-                    └───ASE
-                        └───app
-                                AppTest.class
-
+[po.png](https://postimg.cc/w1T5CSqG)
+[ima1.png](https://postimg.cc/9rBtNWh9)
