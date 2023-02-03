@@ -37,4 +37,6 @@ Al terminar esta intruccion podra ir a cualquier navegador y acceder con la ruta
 ## Estructura de Archivos
 
 [![po.png](https://i.postimg.cc/Mp1sQShq/po.png)](https://postimg.cc/w1T5CSqG)
+
+
 [![ima1.png](https://i.postimg.cc/HsqZnxv6/ima1.png)](https://postimg.cc/9rBtNWh9)
